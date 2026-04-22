@@ -23,7 +23,7 @@
   "music": "./music/bgMusic.mp3",
   "fonts": [
     {
-      "name": "Ma Shan Zheng",
+      "name": "wang",
       "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
     }
   ]
